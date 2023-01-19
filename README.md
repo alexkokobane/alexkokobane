@@ -1,4 +1,4 @@
-# Hi there 👋🏾, care to read a little about me?
+# About me?
 
 - I'm  **Alex Kokobane**, Web Developer 💻 with an obession for creating.
 - I'm relatively new to tech, I've only been learning full-time in the past 2 years. It's been a fun journey, surprisingly fueling my creativity.
