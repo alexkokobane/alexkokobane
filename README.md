@@ -1,9 +1,34 @@
-# About me?
-I'm  **Alex Kokobane**, Designer 🎨, Developer 💻 and Creator 🎥. I enjoy turning ideas into reality and in the no so distant past I discovered Web Development could be an outlet for this obession of mine.
+# 👋 Hi, I’m Alex Kokobane  
 
-### What I've done in the past
-- 🌐 At the very beginnning I used to freelance on smaller projects to get the feel of the field.
-- 🛍 🛒 I subsequently pivoted to building [Shopify](https://github.com/shopify) apps, where I built and listed an app on the [Shopify App Store](https://apps.shopify.com/windfall).
+I’m a **creative technologist**, a developer with a background in film and storytelling.  
+I build things that blend **design, encryption, and real-time communication**.  
 
-### What I'm currently working on
-- 🎥 🎞 I'm building [Screen List](https://screenlist.co.za), a database for information relating to South African cinema.
+---
+
+### 🧠 About Me
+- 🎬 Film graduate turned self-taught **full-stack developer**  
+- 🧩 Skilled in **SvelteKit**, **Node.js**, **Deno**, and **SurrealDB**  
+- 🔐 Passionate about **privacy**, **end-to-end encryption**, and **open source**  
+- 💡 I also create content about tech, ideas, and digital culture  
+
+---
+
+### 🚧 Currently Building: [HalfHour](https://github.com/halfhourhq/halfhour)
+> **HalfHour** is an open-source, encrypted, real-time chat web app.  
+> Built with **SvelteKit** + **Deno**, it focuses on **ephemeral connections**,  
+> **temporary tokens**, and **privacy-first communication**.
+
+Check it out here 👉 [github.com/halfhourhq/halfhour](https://github.com/halfhourhq/halfhour)
+
+---
+
+### 🧰 Tech Stack
+`SvelteKit` · `Deno` · `Node.js` · `SurrealDB` · `Docker` · `Backblaze B2` · `Tailwind`  
+`TypeScript` · `Crypto` · `WebSockets` · `Linux` · `Figma` · `DaVinci Resolve`
+
+---
+
+### 🌐 Find Me Online
+- 💼 [LinkedIn](https://linkedin.com/in/alexkokobane)  
+- 🧠 [Website](https://alex.makamuta.com)  
+- 🐦 [X / Twitter](https://x.com/alexkokobane)  
